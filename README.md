@@ -2,8 +2,8 @@
 alt="Harsh Image" />
 <h1 align="center">Hi 👋, I'm Harsh Sahu</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="left" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshh-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="harshh-sahu" /> </p>
+<img  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshh-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="harshh-sahu" /> </p>
 
 - 🔭 I’m currently working on [Food Ordering Application Application](https://github.com/Harshh-sahu/Food-Ordering-Application_frontend)
 
